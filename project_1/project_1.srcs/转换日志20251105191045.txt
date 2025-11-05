@@ -1,7 +1,0 @@
-D:\SM01_A7_100_ov5640_MF_HDMI_2024\project_1\project_1.srcs
-共计文件269个
-非utf-8文件共4个
-D:\SM01_A7_100_ov5640_MF_HDMI_2024\project_1\project_1.srcs\sources_1\bd\design_1\ip\design_1_mig_7series_0_0\design_1_mig_7series_0_0\user_design\rtl\axi\mig_7series_v4_2_ddr_axi_upsizer.v，原格式简体中文(GB2312)
-D:\SM01_A7_100_ov5640_MF_HDMI_2024\project_1\project_1.srcs\sources_1\bd\design_1\ip\design_1_mig_7series_0_0\design_1_mig_7series_0_0\user_design\rtl\axi\mig_7series_v4_2_ddr_a_upsizer.v，原格式简体中文(GB2312)
-D:\SM01_A7_100_ov5640_MF_HDMI_2024\project_1\project_1.srcs\sources_1\bd\design_1\ipshared\5cee\hdl\axi_protocol_converter_v2_1_vl_rfs.v，原格式简体中文(GB2312)
-D:\SM01_A7_100_ov5640_MF_HDMI_2024\project_1\project_1.srcs\sources_1\new\top.v，原格式简体中文(GB2312)
