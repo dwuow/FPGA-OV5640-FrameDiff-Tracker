@@ -1,0 +1,5 @@
+D:\SM01_A7_100_ov5640_MF_HDMI_2024\helai_ip\helai_ov5640_rx
+共计文件5个
+非gb2312文件共2个
+D:\SM01_A7_100_ov5640_MF_HDMI_2024\helai_ip\helai_ov5640_rx\i2c_ov5640cfg\i2c_dri.v，原格式Unicode (UTF-8)
+D:\SM01_A7_100_ov5640_MF_HDMI_2024\helai_ip\helai_ov5640_rx\i2c_ov5640cfg\i2c_ov5640_rgb565_cfg.v，原格式Unicode (UTF-8)
